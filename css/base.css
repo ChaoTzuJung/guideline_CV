@@ -546,6 +546,9 @@ template {
 .icon {
   font-size: 24px;
 }
+.icon-color {
+  color: #e881a7;
+}
 /* makes the font 33% larger relative to the icon container */
 .fa-lg {
   font-size: 1.33333333em;
@@ -3072,6 +3075,6 @@ hr{
 	margin-right: auto !important;
 }
 /* border */
-.u-border-black--1 {
-  border: 1px solid #484848;
+.u-border-grey--1 {
+  border: 1px solid #d1d2d3;
 }
